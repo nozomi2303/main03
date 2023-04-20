@@ -7,4 +7,5 @@
 - exit入力で終了し、再度MySQLへ'mysql -u root -p'でログインを確認  
 <br>
 ## Railsの構成管理ツール  
-- **Bundler**
+- **Bundler**  
+- Bimdlerは、bundle installを実行するだけでGemfileを読み取り、記載された種類とバージョンのGemをインストールしてくれる。
