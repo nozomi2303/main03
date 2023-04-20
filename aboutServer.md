@@ -7,3 +7,5 @@
 ## Railsの構成管理ツール  
 - **Bundler**  
 - Bundlerは、bundle installを実行するだけでGemfileを読み取り、記載された種類とバージョンのGemをインストールしてくれる。
+
+2023/04/21提出
